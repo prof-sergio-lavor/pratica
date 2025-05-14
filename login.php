@@ -1,4 +1,4 @@
-<?php
+'<?php
 if (isset($_GET['sucesso'])) {
     // Verifica se há o parâmetro 'sucesso' na URL (ex: login.php?sucesso=1)
     // Se existir, mostra uma mensagem de sucesso
